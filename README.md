@@ -48,6 +48,11 @@ epoch 20
 
 ![Figure_1](https://github.com/user-attachments/assets/a4a31f8f-1fbe-45e8-9698-c7f51aea185b)
 
+# Dataset
+
+horse2zebra
+
+https://aistudio.baidu.com/datasetdetail/174819 to download
 
 
 
