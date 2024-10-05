@@ -18,6 +18,8 @@ To train the CycleGAN model with gradient penalty, use: python cycleGAN.py
 
 # Code Explanation
 
+In the generator’s upsampling process, two methods are provided, allowing users to choose the one that best fits their needs.
+
 # Residual Block
 
 The ResBlk class defines a residual block used in the generator network. It includes reflection padding, convolutional layers, instance normalization, and ReLU activation.
