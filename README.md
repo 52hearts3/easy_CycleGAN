@@ -14,7 +14,7 @@ CycleGAN is a type of Generative Adversarial Network (GAN) that can perform imag
 
 To train the CycleGAN model, use the following command: python CycleGAN.py
 
-To train the CycleGAN model with gradient penalty, use: python cycleGAN.py
+To train the CycleGAN model with gradient penalty, use: python cycleGAN2.py
 
 # Code Explanation
 
