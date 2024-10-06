@@ -46,7 +46,7 @@ The training loop for the CycleGAN model, including the calculation of generator
 
 Significant results can be achieved at epoch 20.
 
-epoch 20  zebra to house
+epoch 20  zebra to horse
 
 ![Figure_1](https://github.com/user-attachments/assets/a4a31f8f-1fbe-45e8-9698-c7f51aea185b)
 
